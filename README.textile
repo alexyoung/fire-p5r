@@ -1,0 +1,16 @@
+h2. Fire in Ruby Processing
+
+This code draws fire with a simple algorithm in "Ruby Processing":http://wiki.github.com/jashkenas/ruby-processing
+
+Here's a video: "Fire video":http://screencast.com/t/69TnHrKqG4
+
+h3. Algorithm:
+
+1. Create an indexed palette of red, orange and yellows
+
+2. Loop over the following:
+
+* Draw a random set of colours from the palette at the bottom of the screen
+* Loop through each pixel and average the colour index value around it
+* Reduce the average by a fire intensity factor
+
