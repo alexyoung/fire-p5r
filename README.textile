@@ -2,6 +2,8 @@ h2. Fire in Ruby Processing
 
 This code draws fire with a simple algorithm in "Ruby Processing":http://wiki.github.com/jashkenas/ruby-processing
 
+!http://dl.getdropbox.com/u/221414/blogs/burn_baby.png!
+
 Here's a video: "Fire video":http://screencast.com/t/69TnHrKqG4
 
 h3. Algorithm:
